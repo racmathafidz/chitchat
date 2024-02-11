@@ -2,7 +2,7 @@
 ![alt text](https://github.com/racmathafidz/chitchat/blob/main/assets/images/screenshot.jpg)
 
 ### About
-Chat or messaging mobile apps built with React Native and Firebase:iphone:
+Chat or messaging mobile apps built with React Native and Firebase :iphone:
 
 ### Tech Stack
 - [**React Native**](https://reactnative.dev/)
